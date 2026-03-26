@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/5707d961-381a-48bd-83a4-82b6768eb7b3)
 <!--
 **sookyung2ee/sookyung2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Image](https://github.com/user-attachments/assets/5707d961-381a-48bd-83a4-82b6768eb7b3)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
