@@ -71,4 +71,20 @@
 | 찜 해제 | <img src="http://github.com/user-attachments/assets/f3510742-b8f5-4807-9572-980de2443dc6" width="200"> | <img src="https://github.com/user-attachments/assets/9c084af9-eba9-44c9-948d-ab020918aa92" width="400"> |
 
 
+## 🛠️ 개발 환경
+- **Front** : React, Vite, CSS Modules
+- **Back-end** : Firebase Firestore, Firebase Authentication
+- **버전 관리** : Git, GitHub
+- **배포** : Vercel
+
+## 🚀 추후 추가 예정 기능
+- 📈 기록 및 승률 통계 
+  - 월별 / 구장별 / 상대팀별 승률 분석 기능 추가
+  - 직관에서 사용한 디바이스 통계 추가
+- 👭 친구 기능
+  - 사용자 간 친구 추가 및 친구 목록 관리
+  - 친구에게 함께 가고 싶은 경기를 메시지 형태로 공유
+  - 공유 받은 경기 수락/거절 기능
+
+
 
